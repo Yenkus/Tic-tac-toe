@@ -1,2 +1,2 @@
 # Tic-tac-toe
-A two game
+A game
